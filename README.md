@@ -341,8 +341,6 @@ From a live pipeline run on 29 June 2026:
 ## 👤 Author
 
 **Vansh Kapoor**
-SmartBridge Externship Program — June 2026
-Mentor: Surya Varma
 
 ---
 
