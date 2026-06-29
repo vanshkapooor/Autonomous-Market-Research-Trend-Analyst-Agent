@@ -1,0 +1,10 @@
+python-dotenv
+requests
+groq
+firecrawl-py
+gspread
+google-auth
+APScheduler
+pandas
+numpy
+streamlit
