@@ -2,13 +2,11 @@
 
 > An end-to-end AI-powered market intelligence system that autonomously crawls the web, analyses trends, monitors competitors, detects opportunities and risks, and delivers real-time alerts — all without human intervention.
 
-**Assignee:** Vansh Kapoor | **Mentor:** Surya Varma | **Organisation:** SmartBridge | **Date:** June 2026
-
 ---
 
 ## 📌 Project Overview
 
-The Autonomous Market Research & Trend Analyst is a fully functional agentic AI pipeline built in Python that automates the entire process of gathering, analysing, and distributing business intelligence from across the web. The system uses Firecrawl to continuously crawl industry websites, passes the collected content through a series of specialised LLM modules powered by Groq, stores all results in Google Sheets, compares findings against historical data via the Memento TimeTravel API, and delivers real-time alerts to Slack — all on a fully automated schedule.
+The Autonomous Market Research & Trend Analyst is a fully functional agentic AI pipeline built in Python that automates the entire process of gathering, analysing, and distributing business intelligence from across the web. The system uses Firecrawl to continuously crawl over the industry websites, passes the collected content through a series of specialised LLM modules powered by Groq, stores all results in Google Sheets, compares findings against historical data via the Memento TimeTravel API, and delivers real-time alerts to Slack — all on a fully automated schedule.
 
 ---
 
